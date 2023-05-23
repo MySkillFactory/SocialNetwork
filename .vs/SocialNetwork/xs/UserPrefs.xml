@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{8761AD84-F1FF-4C28-8998-CEF684DE5821}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SocialNetwork.Tests/FriendServiceTest.cs">
+    <Files>
+      <File FileName="SocialNetwork.Tests/FriendServiceTest.cs" Line="14" Column="41" />
+      <File FileName="SocialNetwork.Tests/UserServiceTest.cs" Line="41" Column="43" />
+      <File FileName="SocialNetwork/BLL/Services/FriendService.cs" Line="37" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialNetwork" expanded="True">
+            <Node name="SocialNetwork" expanded="True">
+              <Node name="BLL" expanded="True">
+                <Node name="Exceptions" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="DAL" expanded="True">
+                <Node name="DB" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="PLL" expanded="True">
+                <Node name="Helpers" expanded="True" />
+                <Node name="Views" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SocialNetwork.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SocialNetwork" expanded="True">
+            <Node name="SocialNetwork.Tests" expanded="True">
+              <Node name="SocialNetwork.Tests" expanded="True">
+                <Node name="FriendServiceTest" selected="True" />
+                <Node name="UserServiceTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SocialNetwork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
